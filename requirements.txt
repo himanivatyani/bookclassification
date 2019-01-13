@@ -159,5 +159,5 @@ wrapt==1.10.8
 xgboost
 xlrd==1.0.0
 XlsxWriter
-xlwings
+
 xlwt
