@@ -1,7 +1,7 @@
 alabaster==0.7.9
 anaconda-client==1.2.2
-
-anaconda-project
+anaconda-navigator==1.5
+anaconda-project==0.4.1
 appdirs==1.4.3
 appnope==0.1.0
 appscript==1.0.1
@@ -25,9 +25,9 @@ chest==0.2.3
 click==6.7
 clint==0.5.1
 cloudpickle==0.2.2
-clyent
+clyent==1.2.2
 colorama==0.3.7
-conda
+conda==4.3.14
 configobj==5.0.6
 contextlib2==0.5.4
 cryptography==1.7.1
@@ -35,7 +35,7 @@ cycler==0.10.0
 Cython==0.25.2
 cytoolz==0.8.2
 dask==0.13.0
-datashape
+datashape==0.5.4
 decorator==4.0.11
 dill==0.2.5
 docutils==0.13.1
@@ -125,9 +125,9 @@ redis==2.10.5
 requests==2.17.3
 requests-toolbelt==0.8.0
 rope-py3k==0.9.4.post1
-scikit-image
-scikit-learn
-scipy
+scikit-image==0.12.3
+scikit-learn==0.18.1
+scipy==0.18.1
 seaborn==0.7.1
 shortuuid==0.5.0
 simplegeneric==0.8.1
@@ -156,8 +156,8 @@ Werkzeug==0.12.2
 widgetsnbextension==1.2.6
 wordcloud==1.3.1
 wrapt==1.10.8
-xgboost
+xgboost==0.6
 xlrd==1.0.0
-XlsxWriter
-
-xlwt
+XlsxWriter==0.9.6
+xlwings==0.10.2
+xlwt==1.2.0
